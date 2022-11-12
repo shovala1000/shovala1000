@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shoval Argov (@shovala1000)
+- 👀 I’m interested in solving new mathematical and technical challenges.
+- 🌱 I’m currently learning computer science (bachelor degree).
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shoval-argov-52b744246 
